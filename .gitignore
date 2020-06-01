@@ -26,4 +26,5 @@ yarn-error.log*
 /.idea/modules.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/react-practice-todolist.iml
+/.idea/react-practice-slidemenu.iml
 /.idea/vcs.xml
